@@ -78,6 +78,7 @@ let cLevelDialogueChar = new Array(levelCount);
 let cLevelDialogueText = new Array(levelCount);
 let cLevelDialogueFace = new Array(levelCount);
 let levelName = new Array(levelCount);
+let unlockedLevels = true;
 let mdao = new Array(levelCount);
 let mdao2 = 0;
 let levelProgress;
